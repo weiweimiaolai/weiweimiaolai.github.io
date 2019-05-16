@@ -1,0 +1,14 @@
+- name: Linux中国
+  url:  http://linux.cn/
+- name: 少数派 - 数字生活传道者
+  url: http://sspai.com
+- name: 阮一峰的网络日志
+  url: http://ruanyifeng.com/blog
+- name: 谷奥 :喜欢Google的必备。质量很高。
+  url: http://guao.hk
+- name: 苹果fans:每天一篇真正有用的苹果教程或新闻
+  url: http://mac52ipod.cn
+- name: 运维与架构
+  url: http://nginx.cn
+- name: 编程狂人
+  url: http://tuicool.com/mags
