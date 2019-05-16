@@ -50,7 +50,7 @@ navs:
 # ---------------- #
 #       RSS        #
 # ---------------- #
-#subscribe_rss: /feed.xml
+subscribe_rss: /feed.xml
 
 # ---------------- #
 #      Jekyll      #
