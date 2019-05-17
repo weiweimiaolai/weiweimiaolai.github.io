@@ -27,20 +27,24 @@ email: monmiao@gmail.com
 #    Navigation    #
 # ---------------- #
 navs:
-  - href: /
+  -
+    href: /
     label: 首页
 
-  - href: /categories/
+  -
+    href: /categories/
     label: 文章
 
-  #  -
-  #    href: /wiki/
-  #    label: 维基
+#  -
+#    href: /wiki/
+#    label: 维基
 
-  - href: /links/
+  -
+    href: /links/
     label: 链接
 
-  - href: /about/
+  -
+    href: /about/
     label: 关于
 
 # ---------------- #
@@ -53,7 +57,7 @@ subscribe_rss: /feed.xml
 # ---------------- #
 markdown: kramdown
 kramdown:
-  input: GFM
+    input: GFM
 highlighter: rouge
 paginate: 8
 lsi: false
@@ -61,13 +65,13 @@ quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
 gems:
-  - jekyll-github-metadata
-  - rouge
-  #     - jekyll-html-pipeline
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jemoji
+    - jekyll-github-metadata
+    - rouge
+#     - jekyll-html-pipeline
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-feed
+    - jemoji
 #     - jekyll-mentions
 #collections:
 #    wiki:
@@ -85,16 +89,11 @@ comments_provider: gitment
 # !!!Important!!! Please modify infos below to yours
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-  enable: true
-  mint: true        # RECOMMEND, A mint on Gitment, to support count, language and proxy_gateway
-  count: true        # Show comments count in post meta area
-  lazy: false        # Comments lazy loading with a button
-  cleanly: false    # Hide 'Powered by ...' on footer, and more
-  owner: weiweimiaolai
-  repo: weiweimiaolai.github.io
-  oauth:
-    client_id: c24d6ba9bd157510d410
-    client_secret: 574d6d97dfecbc5f6a1e2f8a9f000d979d813d1a
+    owner: weiweimiaolai
+    repo: weiweimiaolai.github.io
+    oauth:
+        client_id: c24d6ba9bd157510d410
+        client_secret: 574d6d97dfecbc5f6a1e2f8a9f000d979d813d1a
 
 # ---------------- #
 #    Analytics     #
