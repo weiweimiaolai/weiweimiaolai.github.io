@@ -5,7 +5,7 @@ baseurl:
 url: https://weiweimiaolai.github.io
 date_format: "ordinal"
 title: 娓娓瞄来
-subtitle: "世界太大,我不想去看看.闲时扯淡,不保证你喜欢,不保证更新,如有冒犯,纯属必然,坚决不改,随意取关."
+subtitle: "世界太大,我不想去看看."
 description: "闲时扯淡,不保证你喜欢,不保证更新,如有冒犯,纯属必然,坚决不改,随意取关."
 keywords: 随笔,技术,生活,人生,java,python,springboot,springcloud
 favicon: /favicon.ico
